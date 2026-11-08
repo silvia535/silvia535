@@ -1,1 +1,1 @@
-Estudiante de ingeniería informática en servicios y aplicaciones en la UVa (Universidad de Valladolid) en el campus UVa María Zambrano en Segovia. 
+Estudiante de ingeniería informática en servicios y aplicaciones en la UVa (Universidad de Valladolid) en el campus UVa María Zambrano en Segovia. Aquí encontrarás los diferentes proyectos académiccos hechos a lo largo de la carrera y algún que otro proyecto personal. 
